@@ -1,0 +1,12 @@
+name: Your_Shiny_Application
+title: Your_Shiny_Application
+username:
+account: abarrantesh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2192642
+bundleId: 3070291
+url: https://abarrantesh.shinyapps.io/Your_Shiny_Application/
+when: 1587968550.82146
+asMultiple: FALSE
+asStatic: FALSE
